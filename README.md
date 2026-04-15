@@ -116,13 +116,20 @@ Standard angle-encoding variational circuit. Used as a reference to empirically 
 ### 📓 Notebooks
 Explore the research experiments directly on Google Colab:
 
-- **01 Comparison**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/01_qml_comparison_angle_ham_kernel_cv.ipynb)
-- **02 HamVQC Noise-free**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/02_hamvqc_noisefree.ipynb)
-- **03 VQC Prototype Noise-free**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/03_vqc_prototype_noisefree.ipynb)
-- **04 HamVQC Noisy/ZNE**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/04_hamvqc_noisy_zne_repetition.ipynb)
-- **05 HamVQC Full Evaluation**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/05_hamvqc_noisy_zne_repetition_full_eval.ipynb)
-- **06 VQC Prototype Noisy/ZNE**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/06_vqc_prototype_noisy_zne_repetition.ipynb)
-- **07 VQC Prototype Full Evaluation**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/07_vqc_prototype_noisy_zne_repetition_full_eval.ipynb)
+- **01 Comparison**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/01_qml_comparison_angle_ham_kernel_cv.ipynb)
+- **02 HamVQC Noise-free**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/02_hamvqc_noisefree.ipynb)
+- **03 VQC Prototype Noise-free**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/03_vqc_prototype_noisefree.ipynb)
+- **04 HamVQC Noisy/ZNE**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/04_hamvqc_noisy_zne_repetition.ipynb)
+- **05 HamVQC Full Evaluation**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/05_hamvqc_noisy_zne_repetition_full_eval.ipynb)
+- **06 VQC Prototype Noisy/ZNE**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/06_vqc_prototype_noisy_zne_repetition.ipynb)
+- **07 VQC Prototype Full Evaluation**:
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Megaantony00/qml-diabetes-nisq/blob/main/notebooks/07_vqc_prototype_noisy_zne_repetition_full_eval.ipynb)
 
 ### ☁️ Run on Google Colab
 1. **Open** any notebook via the badges above.
