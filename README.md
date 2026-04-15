@@ -39,7 +39,7 @@ Data mapped into an exponentially large Hilbert space via a quantum feature map.
 **2. HamVQC (Hamiltonian Variational Quantum Classifier)**  
 Clinical features injected directly into the coefficients of a Transverse-Field Ising Hamiltonian. Time evolution simulated via `qml.ApproxTimeEvolution` (Suzuki-Trotter decomposition). Key parameter: evolution time `t`, which controls entanglement depth and noise interaction.
 
-$$\hat{H}(x) = \sum_i x_i Z_i + \alpha \sum_{i<j} x_i x_j Z_i Z_j$$
+$$\hat{H}(x) = \sum_{i} x_i Z_i + \alpha \sum_{i \lt j} x_i x_j Z_i Z_j$$
 
 **3. VQC Prototype**  
 Standard angle-encoding variational circuit. Used as a reference to empirically demonstrate the Barren Plateau phenomenon.
